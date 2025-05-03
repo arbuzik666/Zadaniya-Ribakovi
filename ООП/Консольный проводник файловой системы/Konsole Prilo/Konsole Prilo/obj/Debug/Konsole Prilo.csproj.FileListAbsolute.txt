@@ -1,0 +1,7 @@
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\bin\Debug\Konsole Prilo.exe.config
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\bin\Debug\Konsole Prilo.exe
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\bin\Debug\Konsole Prilo.pdb
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\obj\Debug\Konsole Prilo.csproj.AssemblyReference.cache
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\obj\Debug\Konsole Prilo.csproj.CoreCompileInputs.cache
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\obj\Debug\Konsole Prilo.exe
+C:\Users\Cuddly\source\repos\Konsole Prilo\Konsole Prilo\obj\Debug\Konsole Prilo.pdb

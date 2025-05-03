@@ -1,0 +1,7 @@
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\bin\Debug\Text Kocsoli.exe.config
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\bin\Debug\Text Kocsoli.exe
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\bin\Debug\Text Kocsoli.pdb
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\obj\Debug\Text Kocsoli.csproj.AssemblyReference.cache
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\obj\Debug\Text Kocsoli.csproj.CoreCompileInputs.cache
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\obj\Debug\Text Kocsoli.exe
+C:\Users\Cuddly\source\repos\Text Kocsoli\Text Kocsoli\obj\Debug\Text Kocsoli.pdb

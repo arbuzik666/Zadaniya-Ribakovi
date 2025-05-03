@@ -1,0 +1,7 @@
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\bin\Debug\Disk Manager.exe.config
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\bin\Debug\Disk Manager.exe
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\bin\Debug\Disk Manager.pdb
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\obj\Debug\Disk Manager.csproj.AssemblyReference.cache
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\obj\Debug\Disk Manager.csproj.CoreCompileInputs.cache
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\obj\Debug\Disk Manager.exe
+C:\Users\Cuddly\source\repos\Disk Manager\Disk Manager\obj\Debug\Disk Manager.pdb
