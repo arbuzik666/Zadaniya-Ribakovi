@@ -1,0 +1,7 @@
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\bin\Debug\MyApp.Models.exe.config
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\bin\Debug\MyApp.Models.exe
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\bin\Debug\MyApp.Models.pdb
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\obj\Debug\MyApp.Models.csproj.AssemblyReference.cache
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\obj\Debug\MyApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\obj\Debug\MyApp.Models.exe
+C:\Users\Cuddly\source\repos\MyApp.Models\MyApp.Models\obj\Debug\MyApp.Models.pdb
